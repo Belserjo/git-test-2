@@ -1,2 +1,6 @@
 1. git status
-2. git add [files]
+2. git add [files] - добавляет файлы в stage
+3. git commit -m "coment"
+4. git log - побдобная информация о коммите
+5. git log --oneline - краткая инфа о коммите
+6. git push [rep_link] [branch_name]
